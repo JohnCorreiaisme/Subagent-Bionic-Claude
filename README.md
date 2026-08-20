@@ -1,3 +1,11 @@
+/Human generated text: 
+Simple to use just ask Claude to use the Bionic LLM Subagent to help during tasks and it will find it a job to do. 
+Tips: Pick a small fast model. 
+If it fails be sure to look at what model Claude is trying to talk to in Bionic you can always tell it you're using a different one. 
+Output will be slow unless you have a fast machine Claude will determine a good task. 
+/end of human generated text.
+
+
 # Bionic Claude
 
 Lets Claude Code delegate coding subtasks to a local LLM running on your machine via
